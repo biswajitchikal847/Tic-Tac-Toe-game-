@@ -18,7 +18,11 @@ body{
 
 }
 
-.icon{
-  font-size: 35px;
-  color: #ffffff;
+.circle{
+  font-size: 55px;
+  color: #13d674;
+}
+.cross{
+  font-size: 55px;
+  color: #e44501;
 }
